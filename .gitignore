@@ -1,0 +1,15 @@
+# Rust build output
+/target
+
+# Generated screenshots and debug artifacts
+*.png
+*.jpg
+
+# Scratch notes / eval output
+*.txt
+
+# Debug / research output directories
+/debug
+/test
+/failures
+/selftest
